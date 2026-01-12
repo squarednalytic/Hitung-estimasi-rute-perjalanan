@@ -70,7 +70,7 @@ Memuat Contoh Data
 🚀 Instalasi
 Metode 1: Download Langsung
 # Clone repository
-git clone https://github.com/username/journey-route-tracker.git
+git clone https://github.com/username/Hitung-estimasi-rute-perjalanan.git
 
 # Masuk ke direktori
 cd journey-route-tracker
