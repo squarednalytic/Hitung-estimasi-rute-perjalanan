@@ -73,7 +73,7 @@ Metode 1: Download Langsung
 git clone https://github.com/username/Hitung-estimasi-rute-perjalanan.git
 
 # Masuk ke direktori
-cd journey-route-tracker
+cd Hitung-estimasi-rute-perjalanan
 
 # Buka file HTML di browser
 open index.html
@@ -99,7 +99,7 @@ const FUEL_CONSUMPTION = 15;   // Konsumsi BBM (km/liter)
 
 🤝 Kontribusi
 
-Kontribusi sangat diterima! Silakan:
+Kontribusi sangat diterima, Silakan:
 
  1. Fork repository ini
  2. Buat branch fitur baru (git checkout -b fitur-baru)
@@ -119,7 +119,7 @@ v1.0.0 (2026)
     ✅ Responsive design
 
 ⭐ Dukungan
-Jika aplikasi ini bermanfaat, berikan ⭐ pada repository ini!
+Jika aplikasi ini bermanfaat, berikan ⭐ pada repository ini
 
     
 
